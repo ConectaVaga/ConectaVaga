@@ -1,8 +1,7 @@
-# O seu futuro profissional começa aqui!
 
-Repositório do Projeto integrador ConectaVaga desenvolvido durante o bootcamp Pessoa Desenvolvedora Java full Stack.
+<h1 align="center">O seu futuro profissional começa aqui!.</h1>
 
-# Conheça os Integrantes responsáveis pelo projeto. 
+<h3 align="center">  Integrantes responsáveis pelo projeto.</h3>
 
 <div align=center>
     <table>
