@@ -1,5 +1,5 @@
 
-<h1 align="center">O seu futuro profissional começa aqui!.</h1>
+<h1 align="center">O seu futuro profissional começa aqui!</h1>
 
 <h3 align="center">  Integrantes responsáveis pelo projeto.</h3>
 
