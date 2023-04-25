@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="250" height="150" src="https://ik.imagekit.io/ohu04lxwc/LOGO.png?updatedAt=1682438600432">
+ <img width="250" height="150" src="https://ik.imagekit.io/ohu04lxwc/C%C3%B3pia_de_Banners.png?updatedAt=1682439212327">
 </p>">
 
 <h1 align="center">O seu futuro profissional começa aqui!</h1>
