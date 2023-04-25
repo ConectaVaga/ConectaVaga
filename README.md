@@ -1,6 +1,5 @@
 
-<img align="center" src="[http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://ik.imagekit.io/ohu04lxwc/LOGO.png?updatedAt=1682438600432)"/>
-</img>
+<align="center" src="[http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://ik.imagekit.io/ohu04lxwc/LOGO.png?updatedAt=1682438600432)"/>
 
 <h1 align="center">O seu futuro profissional começa aqui!</h1>
 
