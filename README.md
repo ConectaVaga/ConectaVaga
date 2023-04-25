@@ -1,4 +1,6 @@
 
+![descrição da imagem](https://ik.imagekit.io/ohu04lxwc/LOGO.png?updatedAt=1682438600432)
+
 <h1 align="center">O seu futuro profissional começa aqui!</h1>
 
 <h3 align="center">  Integrantes responsáveis pelo projeto.</h3>
