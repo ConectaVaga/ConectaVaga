@@ -14,7 +14,7 @@ Repositório do Projeto integrador ConectaVaga desenvolvido durante o bootcamp P
           <th><img src="https://avatars.githubusercontent.com/u/93882803?v=4" width=100 height=100 ></th>
           <th><img src="https://avatars.githubusercontent.com/u/96356018?v=4" width=100 height=100 ></th>
           <th><img src="https://avatars.githubusercontent.com/u/41052229?v=4" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/ohu04lxwc/C%C3%B3pia_de_C%C3%B3pia_de_ConectaVaga__1_.png?updatedAt=1682435515581" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Foto_de_perfil_para_instagram_colorido_neon.png?updatedAt=1682435769911" width=100 height=100 ></th>
         </tr>
         <tr>
           <th><a href='https://github.com/Joaopanzo261' target="_blank" rel=noreferrer>João</a></th>
