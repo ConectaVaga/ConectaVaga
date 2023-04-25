@@ -1,5 +1,8 @@
 
-![descrição da imagem](descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+<p align="center">
+  <img width="460" height="300" src="<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300">
+</p>">
 
 <h1 align="center">O seu futuro profissional começa aqui!</h1>
 
