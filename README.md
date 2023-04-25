@@ -11,7 +11,7 @@ Repositório do Projeto integrador ConectaVaga desenvolvido durante o bootcamp P
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Jo%C3%A3o.png?updatedAt=1682436496142" width=100 height=100 ></th>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Murilo.png?updatedAt=1682436496134" width=100 height=100 ></th>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Natanael.png?updatedAt=1682436496375" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/ohu04lxwc/Natanael.png?updatedAt=1682436496375" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Rafael.png?updatedAt=1682436501184" width=100 height=100 ></th>
           <th><img src="[https://avatars.githubusercontent.com/u/96356018?v=4](https://ik.imagevoukit.io/ohu04lxwc/rebeca.png?updatedAt=1682435983799)" width=100 height=100 ></th>
           <th><img src="[https://avatars.githubusercontent.com/u/41052229?v=4](https://ik.imagekit.io/ohu04lxwc/Rony.png?updatedAt=1682436500390)" width=100 height=100 ></th>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Foto_de_perfil_para_instagram_colorido_neon__1_.png?updatedAt=1682435816855" width=100 height=100 ></th>
