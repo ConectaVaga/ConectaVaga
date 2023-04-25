@@ -1,9 +1,81 @@
 
-<p align="center">
- <img width="500" height="250" src="https://ik.imagekit.io/ohu04lxwc/C%C3%B3pia_de_Banners.png?updatedAt=1682439212327">
+<div align=center>
+  <img width=800px height=400px src="https://ik.imagekit.io/6kg1q0s1r/C%C3%B3pia_de_Banners.png?updatedAt=1681922292947"  />
+</div>
+
+<h1 align="center">Conectando oportunidades, transformando vidas!</h1>
+
+<!-- LOGO -->
+
+## Sobre 
+
+<p align=center>O projeto da ONG ConectaVaga tem como objetivo promover o trabalho decente e a inclusão social de grupos minoritários e em situação de vulnerabilidade, por meio da intermediação de empregadores com profissionais. 
+A ONG busca oferecer oportunidades de trabalho e capacitações, bem como acompanhar a jornada dos trabalhadores em busca do seu desenvolvimento profissional e pessoal. Além disso, a ConectaVaga conta com uma rede de parceiros para ajudar nessa jornada de transformação. Em suma, o projeto visa transformar a vida das pessoas e torná-las economicamente ativas e donas de seu próprio destino e carreira.
 </p>
-<h1 align="center">O seu futuro profissional começa aqui!</h1>
-<h3 align="center">  Integrantes responsáveis pelo projeto.</h3>
+
+## Índice
+
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#ods">ODS</a> •
+ <a href="#documentação">Documentação</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#desenvolvedores">Desenvolvedores</a>
+</p>
+
+## ODS
+
+<div align=center>
+  <img width=1000px height=400px src="https://ik.imagekit.io/ohu04lxwc/banner.png?updatedAt=1682440755323"  />
+</div>
+
+## Documentação
+
+## Tecnologias  
+<!-- ALGUM BANNER SOBRE TECNOLOGIAS -->
+
+<h1 align=center> Back-end </h1>
+
+<div style=inline align=center >
+  <a href='https://docs.oracle.com/en/java/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  </a>
+  <a href='https://dev.mysql.com/doc/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </a>
+  <a href='https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  </a>
+</div>
+<br>
+
+
+<h1  align=center>Front-end</h1>
+
+<div style=inline align=center>
+  <a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  </a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  </a>
+  <a href='https://javascript.info/'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href='https://react.dev/blog/2023/03/16/introducing-react-dev'>
+    <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  </a>
+  <a href='https://www.typescriptlang.org/docs/'>
+   <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+</div>
+  <br>
+
+
+
+<!--<h1 align=center> Desenvolvedores </h1> -->
+## Desenvolvedores
+
 <div align=center>
     <table>
       <thead>
@@ -28,12 +100,3 @@
       </thead>
     </table>
 </div>
-
-
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ConectaVaga&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ConectaVaga&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ConectaVaga&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- -->
-
-
