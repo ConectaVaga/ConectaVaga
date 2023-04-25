@@ -3,9 +3,7 @@
  <img width="500" height="250" src="https://ik.imagekit.io/ohu04lxwc/C%C3%B3pia_de_Banners.png?updatedAt=1682439212327">
 </p>
 <h1 align="center">O seu futuro profissional começa aqui!</h1>
-<br>
 <h3 align="center">  Integrantes responsáveis pelo projeto.</h3>
-
 <div align=center>
     <table>
       <thead>
