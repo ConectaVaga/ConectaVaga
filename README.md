@@ -10,7 +10,7 @@ Repositório do Projeto integrador ConectaVaga desenvolvido durante o bootcamp P
         <tr>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Jo%C3%A3o.png?updatedAt=1682436496142" width=100 height=100 ></th>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Murilo.png?updatedAt=1682436496134" width=100 height=100 ></th>
-          <th><img src="https://ik.imagekit.io/ohu04lxwc/Natanael.png?updatedAt=1682436496375" width=100 height=100 ></th>
+          <th><img src="https://ik.imagekit.io/ohu04lxwc/Natanael.png?updatedAt=1682436969106" width=100 height=100 ></th>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Rafael.png?updatedAt=1682436501184" width=100 height=100 ></th>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Rebeca.png?updatedAt=1682436742670" width=100 height=100 ></th>
           <th><img src="https://ik.imagekit.io/ohu04lxwc/Rony.png?updatedAt=1682436500390" width=100 height=100 ></th>
